@@ -51,3 +51,8 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'sqlite3', groups: [:test, :development]  
 gem 'pg', group: :production
+gem 'devise'
+gem 'jquery-rails'
+gem 'bootstrap-sass'
+
+gem 'payjp'
